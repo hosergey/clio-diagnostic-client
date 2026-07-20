@@ -13,7 +13,7 @@ function App() {
     setResults(null);
     try {
       const res = await fetch(
-        "whats the correct onrender urlhttps://clio-diagnostic-backend-1.onrender.com/diagnose",
+        "https://clio-diagnostic-backend-1.onrender.com/diagnose",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
