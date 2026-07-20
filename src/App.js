@@ -96,6 +96,7 @@ function App() {
               border: "1px solid #ddd",
               borderRadius: 6,
               fontSize: 13,
+              boxSizing: "border-box",
             }}
           />
         </div>
@@ -121,6 +122,7 @@ function App() {
               border: "1px solid #ddd",
               borderRadius: 6,
               fontSize: 13,
+              boxSizing: "border-box",
             }}
           />
         </div>
