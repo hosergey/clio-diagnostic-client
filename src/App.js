@@ -59,7 +59,7 @@ function App() {
       }}
     >
       <h1 style={{ fontSize: 20, fontWeight: 600, marginBottom: 4 }}>
-        Clio billing diagnostic tool
+        Clio Billing Diagnostic Tool
       </h1>
       <p style={{ fontSize: 13, color: "#666", marginBottom: 24 }}>
         Diagnose QuickBooks sync issues by checking bill state via the Clio API.
