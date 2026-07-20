@@ -83,7 +83,7 @@ function App() {
               marginBottom: 4,
             }}
           >
-            Clio AP token
+            Clio API token
           </label>
           <input
             type="text"
