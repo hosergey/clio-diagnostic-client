@@ -87,7 +87,7 @@ function App() {
           </label>
           <input
             type="text"
-            placeholder="349170-xxxxxxxxxxxxxxxxxxxx"
+            placeholder="Clio token"
             value={token}
             onChange={(e) => setToken(e.target.value)}
             style={{
@@ -113,7 +113,7 @@ function App() {
           </label>
           <input
             type="text"
-            placeholder="8950419"
+            placeholder="Bill ID"
             value={billId}
             onChange={(e) => setBillId(e.target.value)}
             style={{
